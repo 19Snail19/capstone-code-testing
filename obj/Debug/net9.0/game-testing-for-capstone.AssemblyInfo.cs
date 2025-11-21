@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("game-testing-for-capstone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3d34fa2a428a62497a3b4262d5e6cfb34a820e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87b15d60434356539a7711f26029fb0e5823e721")]
 [assembly: System.Reflection.AssemblyProductAttribute("game-testing-for-capstone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("game-testing-for-capstone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

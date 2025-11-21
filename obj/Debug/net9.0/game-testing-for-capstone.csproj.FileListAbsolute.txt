@@ -1,0 +1,15 @@
+C:\Users\jessi\Projects\game-testing-for-capstone\bin\Debug\net9.0\game-testing-for-capstone.exe
+C:\Users\jessi\Projects\game-testing-for-capstone\bin\Debug\net9.0\game-testing-for-capstone.deps.json
+C:\Users\jessi\Projects\game-testing-for-capstone\bin\Debug\net9.0\game-testing-for-capstone.runtimeconfig.json
+C:\Users\jessi\Projects\game-testing-for-capstone\bin\Debug\net9.0\game-testing-for-capstone.dll
+C:\Users\jessi\Projects\game-testing-for-capstone\bin\Debug\net9.0\game-testing-for-capstone.pdb
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.AssemblyInfo.cs
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.sourcelink.json
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.dll
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\refint\game-testing-for-capstone.dll
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.pdb
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\game-testing-for-capstone.genruntimeconfig.cache
+C:\Users\jessi\Projects\game-testing-for-capstone\obj\Debug\net9.0\ref\game-testing-for-capstone.dll
