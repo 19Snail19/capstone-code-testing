@@ -1,5 +1,6 @@
 ﻿Random roll = new Random();
 
+//This took me ENTIRELY too long to figure out
 static void Typewrite(string text, int speed = 10)
 {
     foreach (char c in text)
@@ -9,6 +10,8 @@ static void Typewrite(string text, int speed = 10)
     }
     Console.WriteLine();
 }
+
+
 
 bool roomOneClear = false;
 bool roomTwoClear = false;
@@ -107,7 +110,7 @@ while (roomOneClear == false)
                 switch (choice)
                 {
                     case "A":
-                        Typewrite($"{player} attacks!");
+                        Typewrite($"\n{player} attacks!");
                         playerAtkRoll = roll.Next(1, 21);
 
                         if ((playerAtkRoll >= enemyDef) && (playerAtkRoll != 20))
@@ -130,19 +133,19 @@ while (roomOneClear == false)
                         }
                         else if (playerAtkRoll < enemyDef)
                         {
-                            Typewrite($"{player} misses!");
+                            Typewrite($"\n{player} misses!");
                         }
                         else if (playerAtkRoll == 20)
                         {
                             playerDmg = roll.Next(1, 9);
                             totalDmg = playerDmg * 2;
-                            Typewrite($"Critical hit!! {totalDmg} damage!");
+                            Typewrite($"\nCritical hit!! {totalDmg} damage!");
                             enemyHealth -= totalDmg;
                         }
                         break;
                     
                     case "B":
-                        Typewrite($"{player} defends!");
+                        Typewrite($"\n{player} defends! +2 DEF until next round!");
                         playerDef += 2;
                         break;
                 }
@@ -224,7 +227,7 @@ while (roomOneClear == false)
         Typewrite("Press any key to rage quit.");
         Console.ReadKey();
     }
-    //Should NOT happen until spells and abilities are added
+    //Should NOT happen, but just in case.
     else if ((enemyHealth <= 0) && (playerHealth <= 0))
     {
         roomOneClear = true;
